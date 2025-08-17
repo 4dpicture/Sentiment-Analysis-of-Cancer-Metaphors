@@ -62,5 +62,3 @@ Understanding sentiment embedded in metaphorical language is essential for:
 
 ---
 
-If you use this work, please cite our HealTAC 2025 paper:
-
